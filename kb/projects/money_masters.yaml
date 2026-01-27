@@ -1,0 +1,5 @@
+name: MoneyMasters
+summary: "TODO: Personal finance tracker with ML-based spend categorization."
+technologies: ["TypeScript", "Next.js", "Postgres", "Python"]
+metrics: []
+links: []

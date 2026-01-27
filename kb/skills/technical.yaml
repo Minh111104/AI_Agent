@@ -1,0 +1,5 @@
+languages: ["TypeScript", "Python", "Go", "SQL"]
+backend: ["Node.js", "Express", "Next.js API routes"]
+frontend: ["Next.js", "React", "Tailwind CSS"]
+cloud: ["AWS", "GCP"]
+datastores: ["Postgres", "Redis"]

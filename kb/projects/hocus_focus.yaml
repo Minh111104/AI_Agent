@@ -1,0 +1,5 @@
+name: HocusFocus
+summary: "TODO: Productivity assistant that summarizes browsing sessions."
+technologies: ["TypeScript", "Chrome Extensions", "OpenAI API"]
+metrics: []
+links: []

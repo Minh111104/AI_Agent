@@ -1,0 +1,3 @@
+observability: ["Datadog", "OpenTelemetry"]
+ci_cd: ["GitHub Actions"]
+collaboration: ["Jira", "Linear", "Notion"]

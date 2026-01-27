@@ -1,0 +1,7 @@
+stories:
+  - prompt: "Tell me about yourself"
+    outline: ["Background", "Key projects", "What you want next"]
+    evidence_refs: []
+  - prompt: "Challenge you solved"
+    outline: ["Situation", "Action", "Result (metric)"]
+    evidence_refs: []

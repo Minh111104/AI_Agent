@@ -1,0 +1,5 @@
+name: Crawler Platform
+summary: "TODO: Distributed crawler for job boards with dedupe pipeline."
+technologies: ["Node.js", "Playwright", "Redis", "Postgres"]
+metrics: []
+links: []

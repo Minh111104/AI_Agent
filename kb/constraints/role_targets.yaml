@@ -1,0 +1,8 @@
+role_families:
+  - SWE
+  - SRE
+  - Platform
+  - QA
+keywords:
+  must_have: ["TypeScript", "Python", "distributed", "backend"]
+  nice_to_have: ["Kubernetes", "Rust", "ML infra"]

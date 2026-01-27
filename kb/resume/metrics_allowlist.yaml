@@ -1,0 +1,3 @@
+# Only metrics that are verified and safe to reuse in drafting.
+allowed_metrics:
+  - "TODO: e.g., Improved API latency by 23% measured via Datadog"

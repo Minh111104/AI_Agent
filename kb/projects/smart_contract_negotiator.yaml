@@ -1,0 +1,5 @@
+name: Smart Contract Negotiator
+summary: "TODO: Agent that drafts and simulates contract clauses before deployment."
+technologies: ["Solidity", "TypeScript", "Hardhat"]
+metrics: []
+links: []

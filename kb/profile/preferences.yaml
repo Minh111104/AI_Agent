@@ -1,0 +1,7 @@
+locations:
+  preferred: ["Remote", "Bay Area", "Seattle", "New York"]
+  avoid: []
+role_families: ["SWE", "SRE", "Platform", "QA"]
+company_size: ["startup", "mid", "large"]
+start_dates: ["Immediate", "Summer 2026"]
+communication_style: "confident, concise, technical"

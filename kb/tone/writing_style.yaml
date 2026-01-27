@@ -1,0 +1,5 @@
+voice: "Confident, concise, technical, first-person"
+constraints:
+  - "No fabricated metrics or employers"
+  - "Keep sentences tight; prefer bullet lists"
+  - "Cite evidence ids when making claims"

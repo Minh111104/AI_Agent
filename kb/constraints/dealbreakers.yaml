@@ -1,0 +1,5 @@
+# Hard constraints the agent must respect
+visa_sponsorship_required: true
+min_intern_duration_weeks: 10
+exclude_locations: []
+no_unpaid_roles: true
