@@ -1,8 +1,12 @@
 role_families:
   - SWE
+  - SDE
+  - DevOps
   - SRE
-  - Platform
-  - QA
+  - Platform Engineering
+  - Data Engineering
+  - ML Engineering
+  - QA Engineering
 keywords:
-  must_have: ["TypeScript", "Python", "distributed", "backend"]
-  nice_to_have: ["Kubernetes", "Rust", "ML infra"]
+  must_have: ["C++", "Python", "distributed", "backend"]
+  nice_to_have: ["Kubernetes", "AWS", "ML infra"]
