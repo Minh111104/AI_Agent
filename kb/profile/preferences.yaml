@@ -1,7 +1,7 @@
 locations:
-  preferred: ["Remote", "Bay Area", "Seattle", "San Francisco"]
+  preferred: ["Remote", "Bay Area", "Seattle", "San Francisco", "Atlanta", "Austin"]
   avoid: []
 role_families: ["SWE", "SDE", "DevOps", "SRE", "Platform Engineering", "Data Engineering", "ML Engineering", "QA Engineering"]
 company_size: ["startup", "mid", "large"]
-start_dates: ["Immediate", "Summer 2026"]
+start_dates: ["Summer 2026"]
 communication_style: "confident, concise, technical"
