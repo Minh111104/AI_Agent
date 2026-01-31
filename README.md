@@ -1,4 +1,4 @@
-# Autonomous Job Application Agent (asi:one Pro)
+# Autonomous Job Application Agent
 
 Next.js (app router) + Postgres + Redis multi-agent system that discovers roles, scores fit, drafts evidence-backed materials, and keeps you in-control with approval gates.
 
