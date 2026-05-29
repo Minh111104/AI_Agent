@@ -44,3 +44,6 @@ Meta, Google, Amazon, Microsoft, Apple, Netflix, Datadog, Stripe, Snowflake, Chi
 - Flesh out Scout → Normalize → FitScore → Materials → Compliance workers; hook asi:one tools.
 - Build Inbox + Job detail pages consuming API; surface approval gates and activity timeline.
 - Add PDF generation for tailored resumes/cover letters and upload to storage.
+
+## License
+This project is created for educational purpose.
